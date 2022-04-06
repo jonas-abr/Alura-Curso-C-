@@ -1,0 +1,8 @@
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Jonas\OneDrive\Área de Trabalho\ALURA\CSharp\CSharp-Orientacao-a-objetos\9-Entrada-Saida-Com-Streams\csharppt9-aula0\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
